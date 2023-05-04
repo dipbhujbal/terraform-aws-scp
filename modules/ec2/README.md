@@ -41,7 +41,7 @@ No outputs.
 ## Details:
 
 
-- **deny_public_ec2_ip**:
+- **deny_public_ec2_ip.tf**:
    - Creates SCP that restrics targets users to create public ip for EC2 instances.
 
 - **limit_ec2_instance_type.tf**:
